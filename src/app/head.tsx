@@ -2,7 +2,7 @@ export default function Head() {
   return (
     <>
       <title>
-      Welcome to askMAIN.com
+      Welcome to askMAIN
       </title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta name="description" content="askMAIN offers AI chatbots based on the latest technologies" />
