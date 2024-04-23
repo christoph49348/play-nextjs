@@ -346,7 +346,7 @@ const Header = () => {
                               : "bg-white/10 hover:bg-white/20"
                           }`}
                         >
-                          Sign Up
+                          Get started for free
                         </Link>
                       </>
                     )}

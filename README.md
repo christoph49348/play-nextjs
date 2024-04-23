@@ -35,8 +35,6 @@ ___
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2Fplay-nextjs)
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/NextJSTemplates/play-nextjs)
-
 ### Setup Instructions
 
 Follow these steps to set up and run this template on your local machine:
@@ -50,12 +48,6 @@ Follow these steps to set up and run this template on your local machine:
 ```bash
     npm install
 ```
-
-or
-
-```bash
-    yarn install
- ```
 
 4. Now you're ready to start the project on your local server. Use the following command to get it up and running:
 
